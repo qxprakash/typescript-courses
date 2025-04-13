@@ -2,6 +2,7 @@
     "name": "welcome-to-ts",
     "license": "NOLICENSE",
     "version": "0.0.1",
+    "type": "module",
     "devDependencies": {
         "typescript": "5.3.0-beta"
     },
